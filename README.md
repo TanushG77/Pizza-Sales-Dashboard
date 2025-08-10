@@ -1,35 +1,35 @@
 🍕 Pizza Sales Dashboard
- Project Overview
+ 📌 Project Overview
 An interactive Power BI dashboard analyzing pizza sales performance, customer preferences, and order trends.
-Designed to help identify top-selling items, revenue patterns, and seasonal demand fluctuations.
+Helps identify top-selling items, revenue patterns, and seasonal demand fluctuations.
 
 🛠 Tools Used
-Power BI – For data visualization, interactive filtering, and dashboard creation.
+Power BI – Data visualization, interactive filtering, and dashboard creation.
 
-Microsoft Excel – For initial data cleaning, formatting, and preprocessing.
+Microsoft Excel – Data cleaning, formatting, and preprocessing.
 
 📂 Data Source
-Dataset sourced from Kaggle's Pizza Sales Dataset containing detailed order, customer, and product data.
+Dataset sourced from Kaggle’s Pizza Sales Dataset containing order, customer, and product details.
 
-Includes sales transactions, pizza categories, sizes, and revenue information for in-depth analysis.
+Includes transaction records, pizza categories, sizes, and revenue information for deeper analysis.
 
 📊 Key Insights
-Revenue Peaks 📈 – Highest sales observed on weekends and during evening hours.
+Revenue Peaks 📈 – Highest sales occur on weekends and evenings.
 
-Best Seller 🏆 – Large-sized "Classic Deluxe" pizza generated the most revenue.
+Best Seller 🏆 – Large “Classic Deluxe” pizza brings in the most revenue.
 
-Category Preference 🍽 – Classic and Supreme pizzas accounted for the majority of orders.
+Category Preference 🍽 – Classic & Supreme pizzas dominate order counts.
 
-Seasonal Demand 🌦 – Summer months showed an increase in beverage add-ons.
+Seasonal Demand 🌦 – Summer months see increased beverage add-ons.
 
 ✨ Features
-Interactive Filters 🔍 – Filter sales by date, pizza type, size, or category for detailed analysis.
+Interactive Filters 🔍 – Filter by date, pizza type, size, or category.
 
-Dynamic Charts 📊 – Automated updates to visualizations when new data is added.
+Dynamic Charts 📊 – Visuals update automatically with new data.
 
-Performance KPIs 🎯 – Displays key metrics like total revenue, total orders, and average order value.
+Performance KPIs 🎯 – Total revenue, total orders, and average order value.
 
-Top/Bottom Analysis 📋 – Quickly identify best and worst-performing pizza types.
+Top/Bottom Analysis 📋 – Identify best and worst-performing pizzas.
 
 📌 Created by: Tanush Gupta
    
