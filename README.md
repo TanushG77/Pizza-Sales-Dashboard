@@ -1,37 +1,36 @@
 🍕 Pizza Sales Dashboard
-Overview
-This interactive Power BI dashboard analyzes pizza sales data to uncover key business insights, track performance trends, and identify opportunities for improvement. It provides a comprehensive view of sales patterns, customer preferences, and product performance.
+ Project Overview
+An interactive Power BI dashboard analyzing pizza sales performance, customer preferences, and order trends.
+Designed to help identify top-selling items, revenue patterns, and seasonal demand fluctuations.
 
-Highlights
-📊 Visual representation of total sales, total orders, and average order value
+🛠 Tools Used
+Power BI – For data visualization, interactive filtering, and dashboard creation.
 
-🍽️ Breakdown of top-performing pizza categories and sizes
+Microsoft Excel – For initial data cleaning, formatting, and preprocessing.
 
-🕒 Time-based analysis (daily, weekly, monthly trends)
+📂 Data Source
+Dataset sourced from Kaggle's Pizza Sales Dataset containing detailed order, customer, and product data.
 
-📍 Insights on peak sales hours and busiest days
+Includes sales transactions, pizza categories, sizes, and revenue information for in-depth analysis.
 
-📈 Identification of best- and worst-selling pizzas
+📊 Key Insights
+Revenue Peaks 📈 – Highest sales observed on weekends and during evening hours.
 
-Tools Used
-Power BI – Data modeling, DAX calculations, and dashboard creation
+Best Seller 🏆 – Large-sized "Classic Deluxe" pizza generated the most revenue.
 
-Excel/CSV – Dataset storage and preprocessing
+Category Preference 🍽 – Classic and Supreme pizzas accounted for the majority of orders.
 
-DAX – Measures and calculated columns for KPIs
+Seasonal Demand 🌦 – Summer months showed an increase in beverage add-ons.
 
-Insights from the Dashboard
-Peak sales occur during weekends, especially Friday and Saturday evenings.
+✨ Features
+Interactive Filters 🔍 – Filter sales by date, pizza type, size, or category for detailed analysis.
 
-Large-size pizzas contribute the highest sales value, followed by medium.
+Dynamic Charts 📊 – Automated updates to visualizations when new data is added.
 
-Classic category pizzas dominate sales volume, while Supreme has the highest revenue per order.
+Performance KPIs 🎯 – Displays key metrics like total revenue, total orders, and average order value.
 
-Certain pizzas have consistently low sales, indicating potential menu optimization opportunities.
+Top/Bottom Analysis 📋 – Quickly identify best and worst-performing pizza types.
 
-Created By
-Tanush Gupta
-B.Com (Hons) | HR & Data Analytics Enthusiast
-📧 tanushgupta2003@gmail.com
-🔗 www.linkedin.com/in/tanushgupta7
+📌 Created by: Tanush Gupta
+   
 
